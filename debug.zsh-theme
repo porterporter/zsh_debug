@@ -10,3 +10,7 @@ prompt_debug_precmd() {
 }
 
 prompt_debug_setup
+
+prompt_zsh_debug() {
+  prompt_debug_setup
+}
